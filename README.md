@@ -5,7 +5,7 @@
 
 **如何运行**
 
-- 首先运行redis
+- 首先启动redis
 
 - 然后启动一个进程(write_to_redis)，向redis中写入初始url， 其key需保持与spider中的redis_key一致
 
